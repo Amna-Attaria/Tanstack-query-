@@ -7,7 +7,7 @@ function Navbars() {
   return (
     <Navbar expand="lg" className="bg-dark justfy-content-end">
       <Container >
-        <Navbar.Brand href="#home" className='text-light'>React-Bootstrap</Navbar.Brand>
+        <Navbar.Brand href="#home" className='text-light'>POST APP</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav"  className=" d-flex justify-content-end">
           <Nav className="me-auto">
